@@ -1,4 +1,5 @@
-# Python程式與資安應用入門 
+# 6l5h5
+Python程式與資安應用入門 
 - 本課程為底下活動的線上教材
   - Happy Python Day
   - SecurityFoscusOnline2023  之 A3_Python程式與資安應用入門
